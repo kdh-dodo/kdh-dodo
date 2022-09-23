@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: dodosae
 - ⚡ Fun fact: i'm actually.. the goat..
 
+
 1.동기이유
 :나의 진로인 'IOT전문가'와 관련이 있는 과목이라 궁금해서 듣게되었지만, 평소에 멀게만 느껴졌던 여러 개념들을 수업을 들음으로써 더 확실하게 확립하는 계기가 되었다.
 1학기와 달리 HTML, CSS뿐만 아니라 자바 스크립트 같은 프로그램 언어들도 새롭게 배우게 되어 흥미로웠다.
